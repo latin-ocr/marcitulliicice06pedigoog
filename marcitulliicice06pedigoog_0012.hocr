@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./marcitulliicice06pedigoog_0012.png"; bbox 0 0 2272 4020; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 31 124 945 592">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 124 945 657">
+     <span class='ocr_line' id='line_1_1' title="bbox 31 124 945 348; baseline -0.005 1"><span class='ocrx_word' id='word_1_1' title='bbox 31 212 408 348; x_wconf 70' lang='lat' dir='ltr'><strong>sERffis</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 470 124 945 348; x_wconf 75' lang='lat' dir='ltr'><strong>-OPERUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 136 481 832 592; baseline -0.007 1.019"><span class='ocrx_word' id='word_1_3' title='bbox 136 481 454 587; x_wconf 77' lang='lat' dir='ltr'>PARTls</span> <span class='ocrx_word' id='word_1_4' title='bbox 511 489 832 592; x_wconf 68' lang='lat' dir='ltr'>sssxTAE.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 6 754 1023 986">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 6 754 1023 986">
+     <span class='ocr_line' id='line_1_3' title="bbox 6 754 950 927; baseline -0.02 -66"><span class='ocrx_word' id='word_1_5' title='bbox 6 754 19 853; x_wconf 73' lang='lat'><em>¹:</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 41 760 351 927; x_wconf 59' lang='lat' dir='ltr'><em>Epistolarfem</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 370 762 588 894; x_wconf 18' lang='lat' dir='ltr'><em>quaetvtqggo</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 606 766 787 853; x_wconf 83' lang='lat' dir='ltr'><em>dicuntur</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 802 761 858 846; x_wconf 80' lang='lat' dir='ltr'><em>ad</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 872 757 950 844; x_wconf 57' lang='lat' dir='ltr'><em>Fass</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 189 872 1023 986; baseline -0.012 -25"><span class='ocrx_word' id='word_1_11' title='bbox 189 876 381 971; x_wconf 68' lang='lat' dir='ltr'><em>vultures,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 410 872 529 960; x_wconf 80' lang='lat' dir='ltr'><em>Ltbrt</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 556 875 688 976; x_wconf 76' lang='lat' dir='ltr'><strong>XVI.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 799 872 891 986; x_wconf 72' lang='lat' dir='ltr'>Pag.</span> <span class='ocrx_word' id='word_1_15' title='bbox 925 899 945 957; x_wconf 89' lang='lat'>1</span> <span class='ocrx_word' id='word_1_16' title='bbox 1019 884 1023 907; x_wconf 78' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1140 4020">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1140 4020">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1140 4020; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1140 4020; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
